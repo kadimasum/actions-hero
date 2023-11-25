@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Hello World
-        run: echo "Hello World Kadima"
+        run: echo "Hello World Kadima 2"
         shell: bash
   goodbye:
     runs-on: ubuntu-latest
